@@ -1,7 +1,6 @@
 from pathlib import *
 import os
 from PIL import Image
-import math
 p = Path('C:\\flower_photos')
 
 out_p_test = Path('C:\\prepared_flower_photos\\test\\')
